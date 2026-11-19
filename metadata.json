@@ -1,0 +1,6 @@
+{
+  "name": "JIN MOTOR — ระบบคำนวณราคาและใบเสนอราคา DEEPAL & CHANGAN",
+  "description": "ระบบคำนวณค่างวด ไฟแนนซ์ สิทธิประโยชน์ และออกใบเสนอราคารถยนต์ไฟฟ้า DEEPAL และ CHANGAN สำหรับที่ปรึกษาการขาย JIN MOTOR",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
